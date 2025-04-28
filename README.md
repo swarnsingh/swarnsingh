@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=swarnsingh)
+![](https://komarev.com/ghpvc/?username=swarnsingh&style=for-the-badge)
 
 ## 🙋‍♂️ About Me
 I'm **Swaran Singh Aulakh**, a passionate **Senior Android Engineer** with 9+ years of experience specializing in building high-quality, scalable Android applications. I focus on delivering clean, maintainable code and creating exceptional user experiences with innovative UI/UX design.

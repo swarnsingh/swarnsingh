@@ -22,7 +22,7 @@ I'm **Swaran Singh Aulakh**, a passionate **Senior Android Engineer** with 9+ ye
 
 ## 🚀 Experience Highlights
 - 🔥 **SIXT**: Led the migration to Jetpack Compose, increased unit test coverage, and delivered new features like Mileage Vault and Pause Subscriptions.
-- 📺 **Robosoft Technologies**: Developed Discovery network apps (TLC, Travel Channel, Animal Planet), optimized New Relic analytics, reduced crash incidents by 30%.
+- 📺 **Robosoft Technologies**: Developed Discovery network apps (TLC, Travel Channel, Animal Planet), optimized New Relic analytics, reduced crash incidents by 5%.
 - 🖨️ **InTimeTec**: Built scalable apps like RISO Print and HP-Roam, handling thousands of daily uploads.
 
 ## 📈 GitHub Stats

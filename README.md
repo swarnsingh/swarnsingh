@@ -3,39 +3,83 @@
 ![](https://komarev.com/ghpvc/?username=swarnsingh&style=for-the-badge)
 
 ## 🙋‍♂️ About Me
-I'm **Swaran Singh Aulakh**, a passionate **Senior Android Engineer** with 9+ years of experience specializing in building high-quality, scalable Android applications. I focus on delivering clean, maintainable code and creating exceptional user experiences with innovative UI/UX design.
+I'm **Swaran Singh Aulakh**, a **Senior Android Engineer / Software Development Engineer II** with **10+ years of experience** building high-performance Android applications.
 
-- 🌱 Recently worked at **SIXT Research & Development India** where I led the migration to **Jetpack Compose** and improved app performance.
-- 🧠 Love contributing to performance optimization, robust testing practices, and CI/CD automation.
-- 🏆 Proven success in mentoring teams, driving cross-functional collaboration, and leading high-impact projects.
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/swarnsingh)
-- 📫 How to reach me: **swarnsinghaulakh@gmail.com**
-- 💼 View my professional profile on [LinkedIn](https://www.linkedin.com/in/swarnsinghaulakh/)
-- 🏋️‍♂️ Sharpening my coding skills at [LeetCode](https://leetcode.com/u/swarnsinghaulakh/)
+My work focuses on **modern Android development**, **Jetpack Compose**, **clean architecture**, and **performance optimization**, with experience contributing to large, production Android codebases.
+
+- 🌱 Currently working at **Tesco** as **Software Development Engineer II (Android)**
+- 🧠 Strong focus on code quality, performance, testing, and maintainability
+- 👨‍💻 Projects available at [GitHub](https://github.com/swarnsingh)
+- 📫 Reach me at **swarnsinghaulakh@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/swarnsinghaulakh/)
+- 🏋️‍♂️ Practicing DSA on [LeetCode](https://leetcode.com/u/swarnsinghaulakh/)
+
+---
 
 ## 🛠️ Skills
-- **Languages:** Java, Kotlin, XML
-- **Architectures:** MVVM, MVP, MVC, MVI, Clean Architecture
-- **Technologies:** Android SDK, Jetpack Compose, Room, Coroutines, Retrofit, OKHTTP, Firebase, Google Maps
-- **Tools:** Android Studio, IntelliJ, Git, JIRA, New Relic, Optimizely
-- **Other Expertise:** Dependency Injection (Dagger2, Hilt, Koin), Unit Testing (JUnit, Mockk), TDD, Espresso, CI/CD Pipelines, Agile & Scrum
+- **Languages:** Kotlin, Java, XML
+- **Architectures:** MVVM, MVP, MVI, Clean & Multi-Module Architecture
+- **Android:** Android SDK, Jetpack Compose, View System
+- **Async & Data:** Coroutines, Flow, Room, Retrofit, OKHttp, RxJava
+- **Testing:** JUnit, MockK, Espresso, Paparazzi
+- **DI:** Dagger2, Hilt, Koin
+- **Analytics & Monitoring:** New Relic, Optimizely
+- **Tooling:** Gradle, Git, CI/CD
+- **Process:** Agile / Scrum, Code Reviews
 
-## 🚀 Experience Highlights
-- 🔥 **SIXT**: Led the migration to Jetpack Compose, increased unit test coverage, and delivered new features like Mileage Vault and Pause Subscriptions.
-- 📺 **Robosoft Technologies**: Developed Discovery network apps (TLC, Travel Channel, Animal Planet), optimized New Relic analytics, reduced crash incidents by 5%.
-- 🖨️ **InTimeTec**: Built scalable apps like RISO Print and HP-Roam, handling thousands of daily uploads.
+---
+
+## 🚀 Professional Experience
+
+### 🛒 Tesco (Contract via Geektrust)  
+**Software Development Engineer II – Android**  
+📍 Bengaluru, India  
+🗓️ Jun 2025 – Present
+
+- Working on the **Tesco Grocery Shopping Android app**  
+  📱 https://play.google.com/store/apps/details?id=com.tesco.grocery.view
+- Developed Category Page features using **Jetpack Compose** and **MVVM Clean Architecture**
+- Implemented analytics tracking for Category Pages using **New Relic dashboards** and existing event pipelines
+- Captured user interactions such as product clicks, basket engagement, and shopping journeys
+- Collaborated with product, backend, and analytics teams
+
+---
+
+### 🚗 SIXT Research & Development India  
+**Software Development Engineer II – Android**  
+🗓️ Jul 2022 – Jul 2024
+
+- Led migration of key features to **Jetpack Compose**, improving performance and maintainability
+- Designed and implemented **MVVM architecture**, improving testability
+- Increased **unit test coverage**
+- Delivered features including **Mileage Vault**, **Contract Terms**, and **Pause Subscriptions**
+- Participated in technical design discussions and code reviews
+
+📱 https://play.google.com/store/apps/details?id=com.sixt.reservation
+
+---
+
+### 📺 Robosoft Technologies  
+**Senior Software Engineer – Android**
+
+- Developed and maintained Android OTT applications for **Discovery Networks**
+- Worked on apps including **TLC GO**, **Travel Channel GO**, and **Animal Planet**
+- Reduced crash incidents and monitored production issues using **New Relic**
+
+---
+
+### 🖨️ InTimeTec Visionsoft  
+**Software Engineer → Senior Software Engineer**
+
+- Developed enterprise Android applications including **RISO Print** and **HP Roam**
+- Built solutions handling **high-volume file uploads**
+- Implemented MVVM architecture and multithreading
+
+---
 
 ## 📈 GitHub Stats
 ![Swaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swarnsingh&show_icons=true&theme=radical)
 
-## ✍️ Latest Projects
-- [SIXT Android App](https://play.google.com/store/apps/details?id=com.sixt.reservation&hl=en_IN&gl=US)
-- [Discovery TLCGo App](https://play.google.com/store/apps/details?id=com.discovery.tlcgo&hl=en_US&gl=US)
-- [Travel Channel App](https://play.google.com/store/apps/details?id=com.travelchannel.watcher&hl=en_US&gl=US)
-- [Animal Planet App](https://play.google.com/store/apps/details?id=com.discovery.aplgo&hl=en_US&gl=US)
-- [HP Roam Mobile App](https://play.google.com/store/apps/details?id=com.hp.roam)
-
 ---
 
 ⭐️ From [Swaran Singh Aulakh](https://github.com/swarnsingh)
-

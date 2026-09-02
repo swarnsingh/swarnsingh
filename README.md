@@ -82,10 +82,4 @@ Jul 2022 - Jul 2024
 
 ---
 
-## GitHub Stats
-
-![Swaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swarnsingh&show_icons=true&theme=radical)
-
----
-
 Thanks for visiting my profile.
